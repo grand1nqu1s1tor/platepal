@@ -1,4 +1,4 @@
 # platepal
 Dining Concierge Chatbot
-The devlopment was moved and completed lcoally via CLI.
+The development was moved and completed locally via CLI.
 RIP to this REPO.
